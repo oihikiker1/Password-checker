@@ -1,4 +1,4 @@
-Download python in the main system. (This is the prerequisite)
+Download python in the main system.(This is the prerequisite)
 Download password.py
 Open terminal from the directory where password.py has been downloaded
 Run the command "python3 password.py"
